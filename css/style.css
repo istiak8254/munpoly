@@ -1,0 +1,58 @@
+.clg img{
+    max-width: 600px;
+    display: block;
+    margin: auto;
+}
+.clg h1{
+    text-align: center;
+    color: brown;
+    padding: 15px;
+}
+.clg h3{
+    color: blue;
+}
+#mirkadim{
+    max-width: 40%;
+   margin-right: 20px;
+}
+.clg video{
+display: block;
+margin: auto;
+background-color: black;
+
+    
+}
+.shuvo img{
+    max-width: 400px;
+    padding: 10px;
+}
+.campus h1{
+    text-align: center;
+   color: blueviolet;
+}
+.campus img{
+    display: block;
+    margin: auto;
+}
+.pic img{
+    padding: 20px;
+}
+.img1 img{
+    display: block;
+    margin: auto;
+}
+.thank h1{
+    background-color: chartreuse;
+    font-size: xx-large;
+    text-align: center;
+}
+.container{
+    background-color: rgba(94, 247, 206, 0.215);
+}
+*{
+    margin: 0px;
+    margin: 0px;
+}
+.clg p{
+    padding: 5px;
+}
